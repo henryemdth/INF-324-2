@@ -1,0 +1,29 @@
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\moises\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+D:\INFORMATICA\Optativa\INF - 324\Visual\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojAssemblyReference.cache
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\xampp\htdocs\Pregunta 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

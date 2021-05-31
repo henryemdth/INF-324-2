@@ -1,0 +1,14 @@
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P1',	'P',	'U',	'P2',	'preregistro');
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P2',	'P',	'C',	'P3',	'pagoinscripcion');
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P3',	'S',	'C',	'P4',	'generaboleta');
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P4',	'C',	'K',	'condicional',	'inscripcion');
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P5',	'P',	'K',	'P6',	'habilita');
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P6',	'P',	'K',	null,   'generacertificado');
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P7',	'P',	'U',	'P8',	'completaregistro');
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P8',	'P',	'C',	'P9',	'codigopago');
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P9',	'P',	'K',	'P10', 	'habilitainscripcion');
+insert into proceso (flujo, proceso, tipoproceso, roles, procesosiguiente, formulario) VALUES('F1',	'P10',	'P',    'U',    'Fin',	'inscripcionmaterias');
+
+insert into condicional (tipo, proceso, SI, NO) VALUES('aprobo',	'P4',	'P5',	'P6');
+
+
